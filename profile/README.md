@@ -1,5 +1,4 @@
-[![ICXR Logo](https://media.discordapp.net/attachments/1014992969494974607/1131631469731774524/1688660627008.png?width=1246&height=701)](https://www.icxr.org/)
-
+[![ICXR Logo](https://media.discordapp.net/attachments/1120181887810404362/1122054711776923758/ICXR-LinkedInBanner.png?width=1425&height=356)](https://www.icxr.org/) 
 ICXR (Intercollegiate XR) is an intercollegiate association of VR/AR clubs at universities. Our mission is to foster collaboration, promote diversity, and provide resources for XR enthusiasts in the education community.
 
 ## About ICXR
